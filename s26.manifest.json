@@ -1,0 +1,15 @@
+{
+  "chunk_size_bytes": 1073741824,
+  "files": [
+    {
+      "name": "3f35bc5ebf6b2e232361cc3de074c4d228a0e06a8da2c166ad1b807b16b89a1a.part"
+    },
+    {
+      "name": "5791dbd12405ebb6c97138a9feefb272ada7e9ea3ef0bb9950dba1fc1cc95e1e.part"
+    },
+    {
+      "name": "c51ad5789bd90139b62f347b334b7a37ffc0ffde5bf7cb7a8a9430aca1dfa21c.part"
+    }
+  ],
+  "parts-dir": "s26-parts"
+}
