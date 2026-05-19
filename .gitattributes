@@ -10,3 +10,5 @@ s26-parts/c51ad5789bd90139b62f347b334b7a37ffc0ffde5bf7cb7a8a9430aca1dfa21c.part 
 l26-parts/0ce100877d8db8c506620ca66404acf5bc397b3b6df16c8780ee3b5e1739a7e3.part filter=lfs diff=lfs merge=lfs -text
 l26-parts/55544ee99ad35b825da224d4b55a9fd62ac9744f70d598e9d1d4c654b8741f26.part filter=lfs diff=lfs merge=lfs -text
 l26-parts/62233f4b74d7b601775797054b4f39d7e2cc756cafaa217a69c218610212fa7b.part filter=lfs diff=lfs merge=lfs -text
+l24 filter=lfs diff=lfs merge=lfs -text
+s24 filter=lfs diff=lfs merge=lfs -text
